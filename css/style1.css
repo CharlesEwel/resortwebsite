@@ -1,4 +1,22 @@
 h1 {
   font-family: Arial;
-  color: red;
+  color: #990000;
+}
+
+h2 {
+  font-family: Arial;
+  color: #FFFFFF;
+  background-color: #990000;
+}
+
+p{
+  color: #990000;
+  font-family: Times;
+  background-color: #ffffff;
+}
+
+li{
+  color: #990000;
+  font-family: Courier;
+  background-color: #ffffff;
 }
