@@ -15,6 +15,10 @@ This is a website we made for a fake island resort in the South Pacific. It is a
 * Open the homepage in your browser
 * Access other webpages by links
 
+###Link to Site
+
+[Our GitHub pages site](http://charlesewel.github.io/resortwebsite/)
+
 ### Legal
 Copyright (c) 2016 Charles Ewel, Bang Nguyen
 
