@@ -14,21 +14,29 @@ h3 {
   color: #990000;
 }
 
+img{
+  float: right;
+}
+
 h4 {
   font-family: Arial;
   color: #FFFFFF;
   background-color: #990000;
 }
 
-p{
+p {
   color: #990000;
   font-family: Times;
   background-color: #ffffff;
 }
 
-li{
+li {
   list-style-type: none;
   color: #990000;
   font-family: Courier;
   background-color: #ffffff;
+}
+
+span {
+  font-size: 30em;
 }
